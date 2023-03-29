@@ -11,6 +11,7 @@ class bcolors:
     UNDERLINE = '\033[4m'
   
 
+
 def delete():
     print("Enter the word you wanna delete: \n")
     wordToDelete = input()
